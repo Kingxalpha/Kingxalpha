@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kingxalpha
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Backend Development 
-- 💞️ I’m looking to collaborate on lot of backend development procedure
+- 👀 I’m a product designer 
+- 🌱 I’m currently with Zuri Organization
+- 💞️ I’m looking to collaborate on lot of Product Design projects
 - 📫 How to reach me on Twitter @tosinpsamuel
 
 
